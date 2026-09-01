@@ -73,23 +73,39 @@ Proteus Simulation
 
 CAN-Based-Vehicle-Safety-Monitoring-System
 │
+
 ├── Main_Node
+
 ├── Indicator_Node
+
 ├── Reverse_Alert_Node
+
 │
+
 ├── Drivers
+
 │   ├── LCD
+
 │   ├── CAN
+
 │   ├── Ultrasonic
+
 │   ├── DS18B20
+
 │   └── Delay
+
 │
+
 ├── Proteus_Simulation
+
 ├── Circuit_Diagrams
+
 ├── Images
+
 ├── Documentation
-│
+
 ├── README.md
+
 └── LICENSE
 
 ✅ Advantages
