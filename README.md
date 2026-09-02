@@ -1,31 +1,12 @@
-CAN-Based Vehicle Safety & Monitoring System using LPC2129
-📌 Project Overview
-This project implements a CAN-Based Vehicle Safety & Monitoring System using the LPC2129 ARM7 Microcontroller.
+<img width="953" height="1599" alt="WhatsApp Image 2026-09-02 at 22 36 27" src="https://github.com/user-attachments/assets/abb173f9-ff71-46ae-a2ab-62912d93a359" />
+<img width="1080" height="784" alt="WhatsApp Image 2026-09-02 at 22 36 28" src="https://github.com/user-attachments/assets/5624a1ff-dde2-4874-85f7-9f2af9be101e" />
 
-The system is designed for automotive applications where multiple nodes communicate using the Controller Area Network (CAN) Protocol for real-time monitoring and safety operations.
-
-The project includes:
-
-Engine Temperature Monitoring
-Reverse Obstacle Detection
-CAN-Based Multi-Node Communication
-Vehicle Indicator Control
-LCD Dashboard UI
-Real-Time Warning Alerts
-
-🎯 Project Aim
-To design and develop an automotive safety and monitoring system using the CAN Protocol, where a central node monitors engine temperature, controls vehicle indicators, and processes reverse sensor data to provide real-time safety alerts.
-
-🖼 Block Diagram
 
 <img width="1536" height="1024" alt="WhatsApp Image 2026-09-01 at 19 43 50" src="https://github.com/user-attachments/assets/1980316c-cdef-4f27-bb17-ea050e467297" />
 
 
-🏗 System Architecture
-🔹 Main Node
-Reads Engine Temperature
-Controls LCD Dashboard
-Sends Indicator Commands
+<img width="1080" height="631" alt="WhatsApp Image 2026-09-02 at 22 36 28 (1)" src="https://github.com/user-attachments/assets/00d38caf-903e-4a64-8da0-fcf9652d10f8" />
+
                      🟢 SAFE
 <img width="1200" height="1600" alt="WhatsApp Image 2026-09-01 at 19 47 07" src="https://github.com/user-attachments/assets/c5478660-68c8-4ee7-8569-55d9c471d10d" />
 
