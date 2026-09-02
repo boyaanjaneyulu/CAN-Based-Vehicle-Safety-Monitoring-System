@@ -32,9 +32,6 @@
 <img width="932" height="1599" alt="WhatsApp Image 2026-09-02 at 22 10 23" src="https://github.com/user-attachments/assets/4c9d4a1c-c7cb-460b-ae62-36c1c8b718f7" />
 
 <img width="1080" height="805" alt="WhatsApp Image 2026-09-02 at 22 44 13" src="https://github.com/user-attachments/assets/3c2d6f43-295b-41cd-9115-f084ad9ca477" />
-<img width="1080" height="805" alt="WhatsApp Image 2026-09-02 at 22 44 13" src="https://github.com/user-attachments/assets/458b0e76-85bb-4046-8dfc-c343530ca6f2" />
-
-
 
 <img width="1080" height="1332" alt="WhatsApp Image 2026-09-02 at 22 22 09" src="https://github.com/user-attachments/assets/991f3de4-d359-4235-acdd-1af03dfcbf5d" />
 
