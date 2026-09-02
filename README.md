@@ -31,36 +31,20 @@
 🚗 Receives Reverse Alerts 🚗
 <img width="932" height="1599" alt="WhatsApp Image 2026-09-02 at 22 10 23" src="https://github.com/user-attachments/assets/4c9d4a1c-c7cb-460b-ae62-36c1c8b718f7" />
 
-🔹 Indicator Node
-   Controls Left/Right Indicators
-   Receives CAN Commands
-🔹 Reverse Alert Node
-   Reads Ultrasonic Sensor Data
-   Sends Obstacle Alerts to Main Node
+<img width="1080" height="805" alt="WhatsApp Image 2026-09-02 at 22 44 13" src="https://github.com/user-attachments/assets/3c2d6f43-295b-41cd-9115-f084ad9ca477" />
+
 
 <img width="1080" height="1332" alt="WhatsApp Image 2026-09-02 at 22 22 09" src="https://github.com/user-attachments/assets/991f3de4-d359-4235-acdd-1af03dfcbf5d" />
 
 
 <img width="893" height="1600" alt="WhatsApp Image 2026-09-02 at 22 21 58" src="https://github.com/user-attachments/assets/7fc24205-2b61-4fb1-8d8b-aaa3cf6aa8ec" />
+<img width="1079" height="997" alt="WhatsApp Image 2026-09-02 at 22 44 12" src="https://github.com/user-attachments/assets/73b212cd-a206-4eab-ad27-11ab4988e556" />
 
-
-✅ Advantages
-
-Real-Time Vehicle Monitoring
-Reliable CAN-Based Communication
-Improved Vehicle Safety System
-Modular Multi-Node Architecture
-Low Latency Data Transmission
-Efficient Temperature Monitoring
-Reverse Collision Warning Support
-Easy Integration with Automotive Systems
-Scalable for Future Vehicle Features
-User-Friendly LCD Dashboard Interface
 
 👨‍💻 Author
 
 Boya Anjaneyulu 
 Embedded Systems Enthusiast
 
-Passionate about Embedded Systems, Firmware Development,
+Passionate about Embedded Systems, Firmware Development
 and Automotive Embedded Technologies.
