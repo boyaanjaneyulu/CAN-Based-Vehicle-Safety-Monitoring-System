@@ -26,16 +26,16 @@ To design and develop an automotive safety and monitoring system using the CAN P
 Reads Engine Temperature
 Controls LCD Dashboard
 Sends Indicator Commands
-🟢 SAFE
+                     🟢 SAFE
 <img width="1200" height="1600" alt="WhatsApp Image 2026-09-01 at 19 47 07" src="https://github.com/user-attachments/assets/c5478660-68c8-4ee7-8569-55d9c471d10d" />
 
 
-🟡 WARM
+                           🟡 WARM
 <img width="552" height="250" alt="WhatsApp Image 2026-09-02 at 22 04 55" src="https://github.com/user-attachments/assets/e93d8e3d-a32b-4075-8ebe-612f37c15296" />
 
 
 
-🔴 HOT / OVERHEATED
+                          🔴 HOT / OVERHEATED
 <img width="1600" height="1200" alt="WhatsApp Image 2026-09-01 at 19 47 07 (1)" src="https://github.com/user-attachments/assets/179ab580-b4d7-43a7-af9a-728ba18c5527" />
 <img width="1200" height="1600" alt="WhatsApp Image 2026-09-01 at 19 47 07 (2)" src="https://github.com/user-attachments/assets/ce37fbf8-bd40-4d24-adef-a50e7b944e32" />
 
@@ -44,8 +44,6 @@ Sends Indicator Commands
 <img width="1600" height="720" alt="WhatsApp Image 2026-09-01 at 19 47 07 (3)" src="https://github.com/user-attachments/assets/23eafac1-9f53-4cc2-9641-9d0994248928" />
 <img width="1600" height="720" alt="WhatsApp Image 2026-09-01 at 19 47 08" src="https://github.com/user-attachments/assets/4bf53441-6530-4452-839f-abae6e3331af" />
 
-
-➡ RIGHT INDICATOR
 <img width="1080" height="1244" alt="WhatsApp Image 2026-09-01 at 19 47 20" src="https://github.com/user-attachments/assets/3916f9a0-9c36-4c57-a9fc-244add0fc3e1" />
 
 
@@ -59,62 +57,11 @@ Sends Indicator Commands
    Reads Ultrasonic Sensor Data
    Sends Obstacle Alerts to Main Node
 
-⚙ Hardware Requirements
+<img width="1080" height="1332" alt="WhatsApp Image 2026-09-02 at 22 22 09" src="https://github.com/user-attachments/assets/991f3de4-d359-4235-acdd-1af03dfcbf5d" />
 
-Component	Description
-LPC2129	ARM7 Microcontroller
-MCP2551	CAN Transceiver
-HC-SR05	Ultrasonic Sensor
-DS18B20	Temperature Sensor
-20x4 LCD	Display Unit
-LEDs	Indicator Simulation
-Buzzer	Warning Alert
-Switches	External Interrupts
-USB-UART	Programming Interface
 
-💻 Software Requirements
-   Embedded C
-   Keil uVision
-   Flash Magic
-   Proteus Simulation
-📂 Repository Structure
+<img width="893" height="1600" alt="WhatsApp Image 2026-09-02 at 22 21 58" src="https://github.com/user-attachments/assets/7fc24205-2b61-4fb1-8d8b-aaa3cf6aa8ec" />
 
-CAN-Based-Vehicle-Safety-Monitoring-System
-│
-
-├── Main_Node
-
-├── Indicator_Node
-
-├── Reverse_Alert_Node
-
-│
-
-├── Drivers
-
-│   ├── LCD
-
-│   ├── CAN
-
-│   ├── Ultrasonic
-
-│   ├── DS18B20
-
-│   └── Delay
-
-│
-
-├── Proteus_Simulation
-
-├── Circuit_Diagrams
-
-├── Images
-
-├── Documentation
-
-├── README.md
-
-└── LICENSE
 
 ✅ Advantages
 
